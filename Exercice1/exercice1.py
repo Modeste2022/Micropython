@@ -35,4 +35,4 @@ while True:
             utime.sleep(0.3)  # plus rapide
         elif press_count == 3:
             LED.value(0)  # éteindre la LED
-            utime.sleep(0.1)
+            utime.sleep(0.2)
