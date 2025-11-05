@@ -26,7 +26,7 @@ Ce dépôt propose une introduction progressive à MicroPython, du contrôle bas
 
 1. Installer MicroPython sur votre carte
 2. Connecter via USB
-3. Explorer les exercices du dossier `/Exercices`
+3. Explorer les exercices du dossier `/Exercice`
 
 ## 📖 Documentation
 
