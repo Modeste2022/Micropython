@@ -26,7 +26,7 @@ Ce dépôt propose une introduction progressive à MicroPython, du contrôle bas
 
 1. Installer MicroPython sur votre carte
 2. Connecter via USB
-3. Explorer les exemples du dossier `/examples`
+3. Explorer les exercices du dossier `/Exercices`
 
 ## 📖 Documentation
 
@@ -34,8 +34,8 @@ Voir le [wiki](lien) pour la documentation complète et les tutoriels détaillé
 
 ## 🤝 Contribution
 
-Les contributions sont les bienvenues ! N'hésitez pas à proposer des améliorations ou de nouveaux exemples.
+Les contributions sont les bienvenues ! N'hésitez pas à proposer des améliorations ou de nouvelles suggestions .
 
 ## 📄 Licence
 
-MIT License - Libre d'utilisation pour l'apprentissage et projets personnels
+HEPL License - Libre d'utilisation pour l'apprentissage et projets personnels
